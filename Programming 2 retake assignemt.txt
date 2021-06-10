@@ -1,0 +1,44 @@
+Welcome to your retake assignment.
+For all the material that you need todo this assignment please consult our class on canvas
+
+
+
+1. Think about what you would like to do as a project 
+Do the proper class design of every object that you are going to have . Your proect must implement inheritance in its design.
+Write pseudo code for every method that you are going to have.
+Submit five test cases for each object
+Submit as a PDF
+
+2. Organize your design into packages
+Put appropriate access modifiers on your classes, attributes, and methods.
+Submit a pdf file,
+
+
+3.Write the full code of your project so far.
+Write all the test of your project so far .
+You need to write them and attach a PDF document which shows the description of the text and its status, whether it failed, or passed.
+If you had an error you need to mention which one, and do this in a table, with the following columns:
+Test number, description, test data, Test status(fail, or pass) and error (which contains the error that happened if any or "no error", if no error occurred).
+
+
+4. Do the graphical user interface of all the screens that you are going to need for your project.
+You do not need to include event handling, but if you can include that, please feel free to do so.
+Apart from the code, you will submit a document with a list of all the screens, or the the user interfaces that your project has, and the classes that do that in your code.
+The document will also contain screenshots of all the screens that you have done.
+
+5. you are tasked to finish up your applications
+Put in all the necessary event handling and package your application into a runnable jar.
+For those making websites, this is a time fo finish up all the work that you haven't, incorporating feedback from assignment 8
+Also you need to provide a shortcut to your runnable jar with a different image other than the default java one
+You need to package your applications, as self contained executables with corresponding setup installables,
+so that even when a person does not have java installed on their computer, they can still install your program and use it.
+Feel free to refer to my example or do it your way as long as you achieve the desired result.
+
+Make a small video of you installing and interacting with your application
+
+Submition:
+PDF document as answer to question 1 /20%
+PDF document as answer to question 2 /10%
+Source code(commit on your git repository) and PDF document as answer to question 3 /30% 
+Commit your improved source code as answer to question 4 /20%
+Commit your final source code, your .jar , your .exe and the small presentation video /20 as answer to uestion 5
